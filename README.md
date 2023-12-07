@@ -58,7 +58,7 @@ Amendments made to original coding to ensure it worked more efficiently.
 [Solution URL Link](https://github.com/MagMillen-Dutka/SVG-Logo-Generator)
 
 ## Walkthrough Video:
-[Click Here to Watch]()
+[Click Here to Watch](https://drive.google.com/file/d/1_eJs9hLdoPl0rTqH2ZTCDZ0JHRT6xYZy/view)
 
 ## Screenshots:
 ### Figure 1. Command line application
