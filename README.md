@@ -3,19 +3,18 @@
 ## Description:
 The application is designed to make creating an SVG image easier based on simple command prompts.
 
-## Solution URL:
-[Solution URL Link:]( https://thomascalle.github.io/Thomas-Object-Oriented-Programming-SVG-Logo-Maker/)
+## Repository:
+[Solution URL Link](https://github.com/MagMillen-Dutka/SVG-Logo-Generator)
 
-## YouTube Walkthrough Video:
+## Walkthrough Video:
 [Click Here to Watch]()
 
 ## Screenshots:
 ### Figure 1. Command line application
-![](./images/svg-logo-maker.png) 
+![](./images/Completed.jpg) 
 ### Figure 2. Jest Testing "npm test"
-![](./images/jest-test.png)
-### Figure 3. Generated "logo.svg" file
-![](./images/generated-logo.svg.png)
+![](./images/Test.jpg)
+
 
 ## Table of Contents:
 * [License](#license)
