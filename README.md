@@ -3,18 +3,6 @@
 ## Description:
 The application is designed to make creating an SVG image easier based on simple command prompts.
 
-## Repository:
-[Solution URL Link](https://github.com/MagMillen-Dutka/SVG-Logo-Generator)
-
-## Walkthrough Video:
-[Click Here to Watch]()
-
-## Screenshots:
-### Figure 1. Command line application
-![](./images/Completed.jpg) 
-### Figure 2. Jest Testing "npm test"
-![](./images/Test.jpg)
-
 
 ## Table of Contents:
 * [License](#license)
@@ -22,6 +10,7 @@ The application is designed to make creating an SVG image easier based on simple
 * [Acceptance Criteria](#acceptance-criteria)
 * [Installation Process](#installation-process)
 * [Sources](#sources)
+* [Repository and Images](#repository)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -50,9 +39,6 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
-
-
-
 ## Installation Process
 1. Clone the code from the repository.
 2. Install the following: 
@@ -67,3 +53,16 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 Majority of code referenced from [ThomasCalle](https://github.com/ThomasCalle), from his YouTube video which can be found here: [Video](https://www.youtube.com/watch?v=GJYMcLus3v0&t=11s) 
 
 Amendments made to original coding to ensure it worked more efficiently.
+
+## Repository:
+[Solution URL Link](https://github.com/MagMillen-Dutka/SVG-Logo-Generator)
+
+## Walkthrough Video:
+[Click Here to Watch]()
+
+## Screenshots:
+### Figure 1. Command line application
+![](./images/Completed.jpg) 
+### Figure 2. Jest Testing "npm test"
+![](./images/Test.jpg)
+
