@@ -1,7 +1,9 @@
 # SVG LOGO Generator
 
 ## Description:
-The application is designed to make creating an SVG image easier based on simple command prompts.
+The application is designed to make creating an SVG image easier based on simple command prompts. 
+
+When a user has decided on their criteria, following the automated command prompts, the SVG file will be created to their specification.
 
 
 ## Table of Contents:
